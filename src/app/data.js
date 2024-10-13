@@ -4,7 +4,7 @@ export const projectsData = [
     name: "Ajman City Client Project",
     description: "Client project for Ajman City, UAE",
     date: "2024-10-09",
-    demoLink: "https://ofoqalfada.vercel.app",
+    demoLink: "#",
   },
   {
     id: 2,
