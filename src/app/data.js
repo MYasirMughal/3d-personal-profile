@@ -61,7 +61,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/MyCv.pdf",
+    link: "#",
     icon: "resume",
     newTab: true,
   },
