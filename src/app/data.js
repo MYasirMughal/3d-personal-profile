@@ -10,7 +10,7 @@ export const projectsData = [
     id: 2,
     name: "Coral Shopping Store",
     description: "E-commerce platform for shopping",
-    date: "2024-10-09",
+    date: "Coming Soon",
     demoLink: "#",
   },
   {
