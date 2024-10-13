@@ -18,7 +18,7 @@ export const projectsData = [
     name: "Personal Portfolio",
     description: "My personal portfolio showcasing my work",
     date: "2024-08-09",
-    demoLink: "https://personal-portfolio-mu-ubaid.vercel.app/",
+    demoLink: "https://yasirmughal.vercel.app/",
   },
   {
     id: 4,
@@ -43,19 +43,19 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://github.com/Ubaid2116",
+    link: "https://github.com/myasirmughal",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/muhammad-ubaid-hussain-6a6054290/",
+    link: "https://www.linkedin.com/in/m-yasir-mughal/",
     icon: "linkedin",
     newTab: true,
   },
   {
     label: "X",
-    link: "https://x.com/ubaidkhan0908?t=EPmv7eu-j4hLyCS1fqg79A&s=09",
+    link: "https://x.com/",
     icon: "twitter",
     newTab: true,
   },
