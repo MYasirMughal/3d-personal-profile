@@ -1,15 +1,15 @@
 export const projectsData = [
   {
     id: 1,
-    name: "Ajman City Client Project",
+    name: "Ajman City Client Project",<br> "Coming Soon",
     description: "Client project for Ajman City, UAE",
-    date: "2024-10-09",
+    //date: "2024-10-09",
     demoLink: "#",
   },
   {
     id: 2,
     name: "Coral Shopping Store",
-    description: "E-commerce platform for shopping", <br> "Coming Soon",
+    description: "E-commerce platform for shopping",
    // date: "Coming Soon",
     demoLink: "#",
   },
