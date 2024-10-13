@@ -3,7 +3,7 @@ export const projectsData = [
     id: 1,
     name: "Construction Builder Project (Coming Soon)",
     description: "Client project for Construction Company",
-    date: "2025-01-01"
+    date: "2025-01-01",
     demoLink: "#",
   },
   {
