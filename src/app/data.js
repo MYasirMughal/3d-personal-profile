@@ -11,7 +11,7 @@ export const projectsData = [
     name: "Coral Shopping Store",
     description: "E-commerce platform for shopping",
     date: "2024-10-09",
-    demoLink: "https://coral-shopping-store-ubaid.vercel.app/",
+    demoLink: "#",
   },
   {
     id: 3,
@@ -25,14 +25,14 @@ export const projectsData = [
     name: "Shareable Resume Builder",
     description: "Create and share your resume easily",
     date: "2024-10-09",
-    demoLink: "https://shareable-resume-builder-ubaid.vercel.app/",
+    demoLink: "#",
   },
   {
     id: 5,
     name: "Static Resume",
     description: "A simple static resume generator",
     date: "2024-10-09",
-    demoLink: "https://static-resume-ubaid.vercel.app/",
+    demoLink: "#",
   },
 ];
 
