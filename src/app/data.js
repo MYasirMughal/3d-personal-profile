@@ -2,22 +2,22 @@ export const projectsData = [
   {
     id: 1,
     name: "Construction Builder Project (Coming Soon)",
-    description: "Client project for Ajman City, UAE",
-    
+    description: "Client project for Construction Company",
+    date: "2025-01-01"
     demoLink: "#",
   },
   {
     id: 2,
-    name: "Coral Shopping Store",
+    name: "E-Shopping Store (Coming Soon)",
     description: "E-commerce platform for shopping",
-    date: "Coming Soon",
+    date: "2024-12-01",
     demoLink: "#",
   },
   {
     id: 3,
     name: "Personal Portfolio",
     description: "My personal portfolio showcasing my work",
-    date: "2024-08-09",
+    date: "2024-09-18",
     demoLink: "https://yasirmughal.vercel.app/",
   },
   {
