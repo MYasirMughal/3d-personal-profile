@@ -33,7 +33,7 @@ export default function Form() {
 
     try {
       const response = await axios.post(
-        "https://formspree.io/f/xpwzabpb", // Replace with your Formspree form ID
+        "https://formspree.io/f/xjkvvrvr", // Replace with your Formspree form ID
         params
       );
       if (response.status === 200) {
